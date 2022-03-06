@@ -12,7 +12,7 @@ npx hardhat run scripts/run.js
 npx hardhat run scripts/deploy.js --network rinkeby
 ```
 ## Connecting Web App to Deployed Smart Contract on Rinkeby Testnet
-1. Update Contract Address in scripts/constants.js
+1. Update Contract Address in src/constants.js
 2. Copy json file from artifacts/contracts/MyEpicGame.sol/MyEpicGame.json
 3. Paste what copied in step 2 into src/utils/MyEpicGame.json
 
@@ -35,7 +35,7 @@ Rinkeby Faucet:
 https://faucets.chain.link/rinkeby
 
 ## Token:
-Token: https://rinkeby.etherscan.io/token/0x0c8284cBAC3dd4d53b16E1f6f5Fe931B85B3D018
+Token: https://rinkeby.etherscan.io/token/0xD8605777E42DFD702BD0174b479421b380B7B528
 
 ## Pin Manager
 [Pinata](https://www.pinata.cloud/)
