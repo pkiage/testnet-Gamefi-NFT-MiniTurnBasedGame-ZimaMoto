@@ -95,7 +95,7 @@ const SelectCharacter = ({ setCharacterNFT }) => {
             console.log('CharacterNFT: ', characterNFT);
             setCharacterNFT(transformCharacterData(characterNFT));
             }
-            alert(`Your NFT is all done -- see it here: https://testnets.opensea.io/assets/${gameContract}/${tokenId.toNumber()}`)
+            //TOFIX: alert(`Your NFT is all done -- see it here: https://testnets.opensea.io/assets/${gameContract}/${tokenId.toNumber()}`)
         };
     
         /*
@@ -126,7 +126,7 @@ const SelectCharacter = ({ setCharacterNFT }) => {
         <div className="name-container">
         <p>{character.name}</p>
         </div>
-        <img src={`https://cloudflare-ipfs.com/ipfs/${character.imageURI}`}alt={character.name} />
+        <img src={character.imageURI} alt={character.name} />
         <button
         type="button"
         className="character-mint-button"

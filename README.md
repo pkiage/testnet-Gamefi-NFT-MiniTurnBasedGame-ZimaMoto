@@ -29,15 +29,16 @@ npx hardhat help
 
 ## Wallet & Coin:
 Wallet:
-https://metamask.io/
+[Metamask](https://metamask.io/)
 
 Rinkeby Faucet:
 https://faucets.chain.link/rinkeby
 
-## NFT & Token:
-NFT: https://testnets.opensea.io/assets/0xa02c719bb0319eb4146f4f234867df0f89b798a8/0
+## Token:
+Token: https://rinkeby.etherscan.io/token/0x0c8284cBAC3dd4d53b16E1f6f5Fe931B85B3D018
 
-Contract: https://rinkeby.etherscan.io/token/0x823f1a06e02090763cBE1987076E014bD280822E
+## Pin Manager
+[Pinata](https://www.pinata.cloud/)
 
 ## Inspiration:
 [Create your own mini turn-based NFT browser game](https://github.com/buildspace/buildspace-nft-game-starter)
