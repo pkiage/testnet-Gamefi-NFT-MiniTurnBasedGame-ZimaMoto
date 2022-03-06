@@ -118,7 +118,7 @@ const Arena = ({ characterNFT, setCharacterNFT }) => {
             <div className={`boss-content ${attackState}`} >
                 <h2>🔥 {boss.name} 🔥</h2>
                 <div className="image-content">
-                <img src={{boss.imageURI}}alt={boss.name} />
+                <img src={boss.imageURI} alt={boss.name} />
                 <div className="health-bar">
                     <progress value={boss.hp} max={boss.maxHp} />
                     <p>{`${boss.hp} / ${boss.maxHp} HP`}</p>
