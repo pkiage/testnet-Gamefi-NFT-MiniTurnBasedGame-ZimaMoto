@@ -44,7 +44,10 @@ Token: https://rinkeby.etherscan.io/token/0xD8605777E42DFD702BD0174b479421b380B7
 [Create your own mini turn-based NFT browser game](https://github.com/buildspace/buildspace-nft-game-starter)
 
 ## TODO:
-- [ ] Refill extinguisher
+- [ ] Refill extinguisher (personal)
+  - [ ] Yours
+  - [ ] Another player's
+  - [ ] Multiple players'
 - [ ] Switch extinguisher
 - [ ] Leaderboard
 - [ ] Critical hit
