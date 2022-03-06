@@ -1,0 +1,39 @@
+body,
+html {
+  margin: 0;
+}
+
+body {
+  padding: 0;
+  font-family: -apple-system, Inter, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+/* unvisited link */
+a:link {
+  color: rgb(247,99,12)
+}
+
+/* visited link */
+a:visited {
+  color: rgb(247,99,12)
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(252,225,0)
+}
+
+/* selected link */
+a:active {
+  color: rgb(255,255,255)
+}
