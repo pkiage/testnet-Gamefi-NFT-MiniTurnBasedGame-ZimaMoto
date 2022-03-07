@@ -41,7 +41,7 @@ Token: https://rinkeby.etherscan.io/token/0xD8605777E42DFD702BD0174b479421b380B7
 [Pinata](https://www.pinata.cloud/)
 
 ## Inspiration:
-[Create your own mini turn-based NFT browser game](https://github.com/buildspace/buildspace-nft-game-starter)
+[Create your own mini turn-based NFT browser game](https://github.com/buildspace/buildspace-projects/tree/main/NFT_Game)
 
 ## Further development ideas:
 - [ ] Refill extinguisher (or mint another one)
