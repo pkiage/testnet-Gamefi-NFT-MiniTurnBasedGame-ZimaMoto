@@ -43,8 +43,8 @@ Token: https://rinkeby.etherscan.io/token/0xD8605777E42DFD702BD0174b479421b380B7
 ## Inspiration:
 [Create your own mini turn-based NFT browser game](https://github.com/buildspace/buildspace-nft-game-starter)
 
-## TODO:
-- [ ] Refill extinguisher (personal)
+## Further development ideas:
+- [ ] Refill extinguisher (or mint another one)
   - [ ] Yours
   - [ ] Another player's
   - [ ] Multiple players'
@@ -53,4 +53,7 @@ Token: https://rinkeby.etherscan.io/token/0xD8605777E42DFD702BD0174b479421b380B7
 - [ ] Critical hit
 - [ ] Audio effects
 - [ ] Game history
-- [ ] Mainnet donations towards circular economy & climate change
+- [ ] Mainnet donations towards causes e.g. climate change, public health, & security
+- [ ] Responsive design
+- [ ] Multiple extinguishers at once (multiplayer)
+- [ ] Game levels
