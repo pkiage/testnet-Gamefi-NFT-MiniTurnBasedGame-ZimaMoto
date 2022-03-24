@@ -57,3 +57,9 @@ Token: https://rinkeby.etherscan.io/token/0xD8605777E42DFD702BD0174b479421b380B7
 - [ ] Responsive design
 - [ ] Multiple extinguishers at once (multiplayer)
 - [ ] Game levels
+
+## Docs creation
+### [Dependency cruiser](https://github.com/sverweij/dependency-cruiser) to validate and visualize dependencies
+```shell
+depcruise --exclude "^node_modules" --output-type dot src | dot -T svg > docs/dependencygraph-src.svg
+```
