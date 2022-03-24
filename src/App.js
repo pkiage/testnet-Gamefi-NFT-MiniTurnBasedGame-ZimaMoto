@@ -72,7 +72,7 @@ const App = () => {
       return (
         <div className="connect-wallet-container">
           <img
-                src ="https://cloudflare-ipfs.com/ipfs/QmdigjeCtxEnDaMDkNBJSzuZxAYv2uGwaFxh4GNG5Md28J"
+                src ="https://media.giphy.com/media/b2baOxpjks7BauX15q/giphy.gif"
                 alt="Firefight"
           />
           <button
